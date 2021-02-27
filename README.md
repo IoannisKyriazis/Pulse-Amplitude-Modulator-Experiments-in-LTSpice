@@ -3,4 +3,4 @@ We created an PAM (Pulse Amplitude Modulator) using LTSpice software and we did 
 
 Language: Greek (Ελληνικά)
 
-Copyright © 2020 Ioannis Kyriazis, Panagiotis Papadopoulos - All Rights Reserved
+Copyright © 2021 Ioannis Kyriazis, Panagiotis Papadopoulos - All Rights Reserved
